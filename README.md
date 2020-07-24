@@ -7,7 +7,7 @@
   <img alt="repo size" src="https://img.shields.io/github/repo-size/jbresolinn/uiclone-pipefy?color=3b5bfd">
 </p>
 
-## 📄 About
+## <img src=".docs/label.svg" width="24px"> About
 
 This is a clone of the Pipefy interface developed with ReactJS! In the project technologies such as styled-components and drag n' drop were used. 
 
@@ -15,13 +15,13 @@ Because, it is a simple project, focusing on the use of drag n' drop, some curre
 
 <br>
 
-## 🤔 What is the Pipefy?
+## <img src=".docs/label.svg" width="24px"> What is the Pipefy?
 
 Pipefy is a workflow demand control plataform. You can learn more about it <b><a href="https://pipefy.com">here</a></b>
 
 <br>
 
-## 👩‍💻 What is the UI Clone?
+## <img src=".docs/label.svg" width="24px"> What is the UI Clone?
 
 UI Clone is a project developed and applied by <a href="https://github.com/Rocketseat">@rocketseat</a> where the interface of several applications that are on the rise in recent years is recreated.
 
@@ -30,5 +30,5 @@ You can see more <b><a href="https://www.youtube.com/watch?v=awRtgpRsdTQ&list=PL
 
 ---
 
-Made with ❤ by Julia Bresolin! 
+Made with ❤ by Julia Bresolin! <br>
 :wave: [Follow me on social networks!](https://linktr.ee/juliabresolin)
