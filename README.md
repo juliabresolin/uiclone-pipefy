@@ -26,6 +26,12 @@ UI Clone is a project developed and applied by <a href="https://github.com/Rocke
 You can see more <b><a href="https://www.youtube.com/watch?v=awRtgpRsdTQ&list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp">here</a></b>!
 
 
+## <img src=".docs/label.svg" width="24px"> Run project
+
+Git the project clone, install the dependencies with ```yarn``` or ```npm``` and run project with ```yarn start``` or ```npm start```.
+
+If you have any questions, you can consult the yarn and npm documentation <b><a href="https://classic.yarnpkg.com/en/docs/installing-dependencies/">here</a></b> and <b><a href="https://docs.npmjs.com/cli/install">here</a></b>.
+
 ---
 
 Made with ❤ by Julia Bresolin! <br>
