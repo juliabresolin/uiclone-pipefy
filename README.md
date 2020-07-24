@@ -13,12 +13,15 @@ This is a clone of the Pipefy interface developed with ReactJS! In the project t
 
 Because, it is a simple project, focusing on the use of drag n' drop, some current pipefy features have not a been replicated, but if you want to contribute you can make a project fork and implement it as you wish.
 
+<br>
+
 ## 🤔 What is the Pipefy?
 
 Pipefy is a workflow demand control plataform. You can learn more about it <b><a href="https://pipefy.com">here</a></b>
 
+<br>
 
-## 🤔 What is the UI Clone?
+## 👩‍💻 What is the UI Clone?
 
 UI Clone is a project developed and applied by <a href="https://github.com/Rocketseat">@rocketseat</a> where the interface of several applications that are on the rise in recent years is recreated.
 
@@ -27,4 +30,5 @@ You can see more <b><a href="https://www.youtube.com/watch?v=awRtgpRsdTQ&list=PL
 
 ---
 
-Made with ❤ by Julia Bresolin! :wave: [Follow me on social networks!](https://linktr.ee/juliabresolin)
+Made with ❤ by Julia Bresolin! 
+:wave: [Follow me on social networks!](https://linktr.ee/juliabresolin)
