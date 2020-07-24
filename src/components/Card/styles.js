@@ -32,13 +32,24 @@ export const Container = styled.div`
     border: 2px dashed rgba(0,0,0,.2);
     padding-top: 32px;
     border-radius: 4px;
-    background: transparent;
+    background: #ecf1f8;
     box-shadow: none;
     cursor: grabbing;
 
     p, img, header {
       opacity: 0;
     }
+  `}
+
+  ${props => props.isEmpty && css `
+    border: 2px dashed rgba(0,0,0, .1);
+    border-radius: 4px;
+    background: transparent;
+    box-shadow: none;
+    cursor: auto;
+    opacity: 1;
+    position: absolute;
+
   `}
 `;
 

@@ -40,12 +40,12 @@ export function loadLists() {
       title: 'Fazendo', 
       creatable: false,
       cards: [
-        {
-          id: 6,
-          content: 'Recriando clone do Pipefy',
-          labels: [],
-          user: 'https://api.adorable.io/avatars/285/abott@adorable.png'
-        }
+        // {
+        //   id: 6,
+        //   content: 'Recriando clone do Pipefy',
+        //   labels: [],
+        //   user: 'https://api.adorable.io/avatars/285/abott@adorable.png'
+        // }
       ]
     },
     { 

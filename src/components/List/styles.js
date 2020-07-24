@@ -39,5 +39,17 @@ export const Container = styled.div`
 
   ul {
     margin-top: 24px;
+    position: relative;
+
+    span {
+      position: absolute;
+      text-align: center;
+    }
+
+  
   }
+
+  .teste {
+      opacity: 0 !important;
+    }
 `;
