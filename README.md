@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Ecoleta" title="Ecoleta" src=".docs/header.svg" width="260px" />
+    <img alt="Ecoleta" title="Ecoleta" src=".docs/header.png" width="260px" />
 </h1>
 
 <p align="center">
