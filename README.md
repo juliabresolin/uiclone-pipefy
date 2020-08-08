@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="uiclone-pipefy-header" title="uiclone-pipefy" src=".docs/header.png" width="900px" />
+    <img alt="uiclone-pipefy-header" title="uiclone-pipefy" src=".docs/header.svg" width="900px" />
 </h1>
 <br>
 <p align="center">
@@ -20,7 +20,7 @@
 
 ## <img src=".docs/label.svg" width="18px">&nbsp; About this project
 
-This is a clone of the Pipefy interface developed with ReactJS! In the project technologies such as styled-components and drag n' drop were used. 
+This is a clone of the Pipefy interface developed with ReactJS! In the project technologies such as styled-components and drag n' drop were used.
 
 Because, it is a simple project, focusing on the use of drag n' drop, some current pipefy features have not a been replicated, but if you want to contribute you can make a project fork and implement it as you wish.
 <br><br>
